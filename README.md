@@ -7,4 +7,4 @@ Let's go and get it!
 Clone the whole repository, then either Run the notebook from top to bottoom or Run  the 「Model part」!
 
 
-## Note: Clone or Download the whole repository in order to see the screenshot of the model! :)
+## Note: Clone or Download the whole repository in order to see the screenshots of the model,or find them in 「graph」!
